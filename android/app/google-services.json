@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "756831507071",
+    "firebase_url": "https://trutech-464cb-default-rtdb.firebaseio.com",
+    "project_id": "trutech-464cb",
+    "storage_bucket": "trutech-464cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756831507071:android:dc34f0b314d59a54c4e54a",
+        "android_client_info": {
+          "package_name": "com.sales.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756831507071-627gidsotoet7fkqacdllr3cahfsn10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_9F3mcvZPRF-toDMVj2FVRfYodDmzU1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756831507071-627gidsotoet7fkqacdllr3cahfsn10h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756831507071:android:b8fbb08a8d3bbb60c4e54a",
+        "android_client_info": {
+          "package_name": "com.trutech.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756831507071-jgj2f9017artfl4iusm69rm19427n2pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trutech.app",
+            "certificate_hash": "b024047557bbbc2a82546c06812f210f9e5c3642"
+          }
+        },
+        {
+          "client_id": "756831507071-627gidsotoet7fkqacdllr3cahfsn10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_9F3mcvZPRF-toDMVj2FVRfYodDmzU1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756831507071-627gidsotoet7fkqacdllr3cahfsn10h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
